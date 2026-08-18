@@ -1,0 +1,20 @@
+# Rust
+/contract/target/
+Cargo.lock
+
+# Node / frontend
+node_modules/
+/frontend/dist/
+/frontend/.vite/
+
+# Env / secrets
+.env
+.env.local
+*.secret
+contract/deployer.secret
+contract/deployed_contract_id.txt
+
+# Editor / OS
+.DS_Store
+.idea/
+.vscode/
