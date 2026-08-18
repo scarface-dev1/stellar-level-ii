@@ -1,6 +1,7 @@
 # Rust
 /contract/target/
 Cargo.lock
+contract/test_snapshots/
 
 # Node / frontend
 node_modules/
