@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="470" viewBox="0 0 720 470" font-family="Inter, system-ui, sans-serif">
+  <rect width="720" height="470" fill="#0e1016"/>
+  <rect x="24" y="24" width="672" height="422" rx="14" fill="#171a23" stroke="#2a2f3e"/>
+
+  <text x="48" y="72" fill="#e6e9f2" font-size="20" font-weight="700">Connect wallet</text>
+  <text x="48" y="100" fill="#9aa3b8" font-size="14">Connect with any of these wallets — you are not limited to a single provider:</text>
+
+  <!-- Freighter -->
+  <rect x="48" y="122" width="624" height="60" rx="10" fill="#1e2230" stroke="#2a2f3e"/>
+  <text x="68" y="158" fill="#e6e9f2" font-size="16" font-weight="600">Freighter</text>
+  <text x="632" y="158" fill="#9aa3b8" font-size="13" text-anchor="end">Browser extension &amp; mobile</text>
+
+  <!-- xBull -->
+  <rect x="48" y="192" width="624" height="60" rx="10" fill="#1e2230" stroke="#2a2f3e"/>
+  <text x="68" y="228" fill="#e6e9f2" font-size="16" font-weight="600">xBull</text>
+  <text x="632" y="228" fill="#9aa3b8" font-size="13" text-anchor="end">Browser extension</text>
+
+  <!-- Albedo -->
+  <rect x="48" y="262" width="624" height="60" rx="10" fill="#1e2230" stroke="#2a2f3e"/>
+  <text x="68" y="298" fill="#e6e9f2" font-size="16" font-weight="600">Albedo</text>
+  <text x="632" y="298" fill="#9aa3b8" font-size="13" text-anchor="end">Web wallet, no extension needed</text>
+
+  <!-- Connect button -->
+  <rect x="48" y="344" width="180" height="48" rx="10" fill="#7c5cff"/>
+  <text x="138" y="374" fill="#ffffff" font-size="16" font-weight="600" text-anchor="middle">Connect wallet</text>
+
+  <text x="48" y="430" fill="#9aa3b8" font-size="12">Multi-Wallet Payment Tracker — Stellar Wallets Kit (Freighter · xBull · Albedo)</text>
+</svg>
