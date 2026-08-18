@@ -64,7 +64,7 @@ assembled transaction (source-account authorization) → the SDK submits it →
   src/lib/errors.ts            contract error code → message mapping
   src/components/              WalletConnect · PaymentForm · TxStatus ·
                                ActivityFeed · Toast
-/docs/wallet-options.svg       wallet-connect screen render
+/docs/wallet-options.png       live screenshot: connect card with wallet options
 ```
 
 ---
@@ -167,10 +167,11 @@ The connect card renders:
 - **xBull** — Browser extension
 - **Albedo** — Web wallet, no extension needed
 
-![Wallet options](docs/wallet-options.svg)
+![Wallet options](docs/wallet-options.png)
 
-> To capture a live screenshot, run `npm run dev`, click **Connect wallet**,
-> and save the modal to `docs/wallet-options.png`.
+> Captured live with a headless browser against the running app
+> (`npm run dev` → connect card). Clicking **Connect wallet** opens the kit
+> modal to pick any of the three providers.
 
 ---
 
